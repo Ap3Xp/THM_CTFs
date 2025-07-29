@@ -11,3 +11,5 @@ Check the **file type** so, Open a terminal and run :-
 ## Step 2: 
 Reverse Engineer Using Ghidra
 (you can download ghidra using ```sudo apt update && sudo apt install ghidra```)
+
+![file]()
