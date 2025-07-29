@@ -7,3 +7,7 @@ Check the **file type** so, Open a terminal and run :-
               `file Compiled-1688545393558.Compiled`
 
 ![file](https://github.com/NadeeraRukshan/THM_CTFs/blob/a53a5c098abd64016e8e4f433b18437885f143e0/images/file.png)
+
+## Step 2: 
+Reverse Engineer Using Ghidra
+(you can download ghidra using ```sudo apt update && sudo apt install ghidra```)
