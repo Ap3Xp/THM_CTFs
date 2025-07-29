@@ -5,3 +5,5 @@ Download : [Binary_File](https://github.com/NadeeraRukshan/THM_CTFs/blob/3ce498c
 ## Step 1
 Check the **file type** so, Open a terminal and run :- 
               `file Compiled-1688545393558.Compiled`
+
+![file](https://github.com/NadeeraRukshan/THM_CTFs/blob/a53a5c098abd64016e8e4f433b18437885f143e0/images/file.png)
